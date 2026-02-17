@@ -1,0 +1,27 @@
+
+    ===========================================
+    RAPPORT STRATÉGIQUE KIVA - 2026-02-17
+    ===========================================
+    
+    SYNTHÈSE GLOBALE :
+    ------------------
+    - Taux de financement moyen : 83.57%
+    - Nombre total de prêts à risque (PAR) : 286
+    
+    ANALYSE PAR SECTEUR :
+    --------------------
+    sector
+Agriculture    85.337620
+Education      80.880721
+Food           87.079871
+Retail         80.889315
+Services       83.662891
+    
+    RECOMMANDATION :
+    ---------------
+    L'audit montre que les secteurs ayant un taux inférieur à 85% 
+    nécessitent une révision urgente des garanties.
+    
+    Document généré automatiquement par le Labo MAMPETechnologie.
+    ===========================================
+    
